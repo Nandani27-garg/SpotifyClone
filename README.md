@@ -4,7 +4,7 @@ A responsive **Spotify Clone** built using **HTML and CSS**. This project recrea
 
 ## 🚀 Live Demo
 
-[View Live Demo](#)
+https://nandani27-garg.github.io/SpotifyClone/
 
 ## 📌 Features
 
