@@ -27,7 +27,7 @@ https://nandani27-garg.github.io/SpotifyClone/
 ```text
 SpotifyClone/
 │
-├── project.html
+├── index.html
 ├── project.css
 │
 ├── logo.png
@@ -61,7 +61,7 @@ git clone https://github.com/Nandani27-garg/SpotifyClone.git
 
 2. Open the project folder.
 
-3. Open `project.html` in your browser.
+3. Open `index.html` in your browser.
 
 That's it! No additional dependencies or installation are required.
 
