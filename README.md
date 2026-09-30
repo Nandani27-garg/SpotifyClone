@@ -1,35 +1,39 @@
 # 🎵 Spotify Clone
 
-A responsive **Spotify Clone** built using **HTML and CSS**. This project recreates the look and feel of the Spotify web interface with a modern layout, music cards, navigation sidebar, and music player controls.
+A **Spotify-inspired music streaming UI clone** built with **HTML5 and CSS3**. This project focuses on recreating the visual structure of a modern music streaming platform, including navigation, playlists/cards, album artwork, and a bottom music-player interface.
+
+> **Note:** This is a front-end UI project created for learning and practice. It does not include real music streaming or backend functionality.
 
 ## 🚀 Live Demo
 
-https://nandani27-garg.github.io/SpotifyClone/
+👉 [View Live Demo](https://nandani27-garg.github.io/SpotifyClone/)
 
-## 📌 Features
+## ✨ Features
 
-* 🎧 Spotify-inspired user interface
-* 📱 Responsive layout
-* 🏠 Home and navigation sections
-* 🎵 Music/album cards
-* ▶️ Music player control section
-* 🎨 Modern dark-themed design
-* 🖼️ Custom images and icons
-* 💻 Built with pure HTML and CSS
+- 🎧 Spotify-inspired dark-themed interface
+- 🏠 Home and navigation sections
+- 🎵 Music and album cards
+- 💿 Album artwork and playlist-style content
+- ▶️ Music-player interface
+- ⏮️ Previous and ⏭️ next control icons
+- 📚 Library section
+- 📱 Responsive layout styling
+- 🎨 Clean and modern UI built from scratch
 
 ## 🛠️ Technologies Used
 
-* **HTML5**
-* **CSS3**
+- **HTML5** – Semantic page structure
+- **CSS3** – Styling, layouts, Flexbox, and responsive design
+- **Git & GitHub** – Version control and project hosting
+- **GitHub Pages** – Live deployment
 
 ## 📂 Project Structure
 
 ```text
 SpotifyClone/
-│
 ├── index.html
+├── project.html
 ├── project.css
-│
 ├── logo.png
 ├── album_picture.jpeg
 ├── album_icon1.png
@@ -40,7 +44,6 @@ SpotifyClone/
 ├── card4img.jpeg
 ├── card5img.jpeg
 ├── card6img.jpeg
-│
 ├── library_icon.png
 ├── play_musicbar.png
 ├── backward_icon.png
@@ -48,50 +51,63 @@ SpotifyClone/
 ├── controls_icon1.png
 ├── controls_icon3.png
 ├── controls_icon4 (2).png
-└── controls_icon5.png
+├── controls_icon5.png
+├── controld_icon2.png
+├── player_icon1.png
+├── player_icon2.png
+├── player_icon3.png
+├── player_icon4.png
+└── player_icon5.png
 ```
 
-## ⚙️ How to Run
+## ⚙️ Run Locally
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Nandani27-garg/SpotifyClone.git
 ```
 
-2. Open the project folder.
+### 2. Open the project
 
-3. Open `index.html` in your browser.
+```bash
+cd SpotifyClone
+```
 
-That's it! No additional dependencies or installation are required.
+### 3. Run the project
 
-## 🎯 Purpose
+Open `index.html` in your browser.
 
-This project was created to practice and improve:
+No external packages or installation steps are required.
 
-* HTML structure
-* CSS styling
-* Flexbox and layout design
-* Responsive web design
-* UI/UX implementation
-* Creating a real-world website clone
+## 🎯 Learning Objectives
+
+This project was built to practice:
+
+- HTML page structure
+- CSS layouts and Flexbox
+- Responsive web design
+- UI recreation from a real-world product
+- Working with images and local assets
+- Organizing a static front-end project
 
 ## 🔮 Future Improvements
 
-* Add JavaScript functionality
-* Implement actual music playback
-* Add play/pause and next/previous functionality
-* Add search functionality
-* Make the interface fully responsive for all screen sizes
-* Add dynamic playlists
+- Add JavaScript-based music controls
+- Implement actual audio playback
+- Add working play/pause and next/previous functionality
+- Add search and filtering
+- Add playlist interactions
+- Improve mobile responsiveness
+- Add dynamic content using an API
 
 ## 👩‍💻 Author
 
 **Nandani Garg**
 
-* GitHub: [Nandani27-garg](https://github.com/Nandani27-garg)
-* LinkedIn: [Nandani Garg](https://www.linkedin.com/in/nandani27/)
+- GitHub: [Nandani27-garg](https://github.com/Nandani27-garg)
+- LinkedIn: [Nandani Garg](https://www.linkedin.com/in/nandani27/)
 
-## ⭐ Support
+---
 
-If you like this project, consider giving the repository a ⭐ on GitHub!
+⭐ If you found this project useful, consider giving it a star!
